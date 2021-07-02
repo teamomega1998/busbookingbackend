@@ -1,0 +1,26 @@
+[
+    {
+        "roomNumber": 1,
+        "buildingNumber": 1,
+        "floorNumber": 1,
+        "beds": 3,
+        "max_occupancy": 3,
+        "cost_per_night": 500
+    },
+    {
+        "roomNumber": 2,
+        "buildingNumber": 1,
+        "floorNumber": 2,
+        "beds": 3,
+        "max_occupancy": 3,
+        "cost_per_night": 500
+    },
+    {
+        "roomNumber": 3,
+        "buildingNumber": 2,
+        "floorNumber": 1,
+        "beds": 2,
+        "max_occupancy": 3,
+        "cost_per_night": 500
+    }
+]
